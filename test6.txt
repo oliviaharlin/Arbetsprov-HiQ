@@ -1,0 +1,4 @@
+blablabla
+MOVE
+something something
+PLACE1,abc,test
